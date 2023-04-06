@@ -1,6 +1,5 @@
 # Pesquisa de PAM 
-Nome: Paulo Ricardo Matiasso Cruz
-Nome: Vitória Campelo de Araújo Leal
+Nome: Paulo Ricardo Matiasso Cruz; Nome: Vitória Campelo de Araújo Leal
 2°DS - Grupo B
 
 
@@ -10,30 +9,30 @@ Dados são um conjunto de informações, sendo capaz ser organizadas ou não. Al
 
 #### 2 TIPOS NUMÉRICOS (INTEGRAIS)
 
-2.1 TIPO DE DADO BYTE
+##### 2.1 TIPO DE DADO BYTE
  
 O tipo de dado byte é um exemplo de um tipo de dado primitivo. Sendo que é um inteiro de complemento de dois com assinatura de 8 bits. Sua faixa de valor está entre -128 até 127 (inclusive). Valor mínimo é -128 e o valor máximo é 127. Seu valor padrão é 0 (zero).
 Ele é usado para gravar em memória grandes matrizes em que a memória salva é muito requisitada. Isso economiza espaço pelo motivo de um byte é quatro vezes menor que um número inteiro, além de que também pode ser utilizado no lugar de tipos de dados "int".
 
-2.2 TIPO DE DADO CHAR
+##### 2.2 TIPO DE DADO CHAR
 
 O tipo de dado char é um único caractere unicode de 16 bits. Sua faixa de valor está entre '\u0000' (ou 0) até '\uffff' (ou 65.535 inclusive). Uma vez que o char é utilizado para armazenar caracteres.
 
-2.3 TIPO DE DADO SHORT
+##### 2.3 TIPO DE DADO SHORT
 
 O tipo de dado short é um inteiro de complemento de dois com assinatura de 16 bits. Desse modo, sua faixa de valor está entre -32.768 até 32.767 (inclusive), seu valor mínimo é -32.768 e valor máximo é 32.767 e seu valor padrão é 0 (zero).
 Vale salientar que também pode ser usado para economizar memória assim como o tipo de dado byte. Pode-se observar que ele é duas vezes menor que um inteiro.
 
-2.4 TIPO DE DADOS INT 
+##### 2.4 TIPO DE DADOS INT 
 
 O tipo de dado int é um inteiro de complemento de dois, com armazenamento de 32 bits. Sua faixa de valor está entre -2.147.483.648 (-2³¹) até 2.147.483.647 (2³¹) . Seu valor mínimo é de -2.147.483.648 e valor máximo é 2.147.483.647. Seu valor padrão é 0 (zero).
 Esse tipo de dado é geralmente usado como um tipo de dado padrão para valores inteiros sem nenhum problema de memória ou com casas decimais.
 
-2.5 TIPO DE DADOS LONG
+##### 2.5 TIPO DE DADOS LONG
 
 O tipo de dado long é usado quando você precisa de uma faixa de valores maior do que a fornecida por int. É um inteiro com armazenamento de 64 bits. Sua faixa de valor está entre -9.223.372.036.854.775.808 (-2³¹) até 9.223.372.036.854.775.807 (2³¹). Seu valor mínimo é -9.223.372.036.854.775.808 e o valor máximo é de 9.223.372.036.854.775.807. O seu valor padrão é 0 (zero). 
 
-3 TIPOS NUMÉRICOS (PONTO FLUTUANTE)
+#### 3 TIPOS NUMÉRICOS (PONTO FLUTUANTE)
 
 3.1 TIPO DE DADOS FLOAT
 
@@ -47,7 +46,7 @@ O tipo de dado double é geralmente usado para valores decimais (ponto flutuante
 
 O tipo de dado boolean é usado para armazenar somente dois possíveis valores: verdadeiro e falso (true e false). Este tipo de dado é usado por sinalizadores simples que localizam condições verdadeiras/falsa. Especifica um bit de informação, mas o “tamanho” não pode ser especificado precisamente.
 
-4 INTRODUÇÃO – INSTRUÇÕES CONDICIONAIS
+#### 4 INTRODUÇÃO – INSTRUÇÕES CONDICIONAIS
 
 As instruções condicionais avaliam as "status flags" para realizar uma operação somente se a condição for atendida. Vale apontar que há condições que testam o valor de mais de uma flag em combinação para casos diferentes. A nomenclatura de escrita de uma instrução condicional é o seu nome seguido de um 'cc', sigla para "conditional code."
 
@@ -67,7 +66,7 @@ O switch/case testa o valor contido em uma variável, realizando uma comparaçã
 Podemos ter quantos casos de análise forem necessários e, quando um dos valores corresponder ao da variável, o código do case correspondente será executado. Caso a variável não corresponda a nenhum dos casos testados, o último bloco será executado, chamado de default (padrão).
 A análise de cada caso também precisa ter seu final delimitado. Essa delimitação é feita através da palavra break.
 
-5 INTRODUÇÃO – ESTRUTURAS DE REPETIÇÃO DO JAVA
+#### 5 INTRODUÇÃO – ESTRUTURAS DE REPETIÇÃO DO JAVA
 
 As estruturas de repetição em Java também são conhecidas como iteração, ou laços (loops), são usadas para executar, repetidamente, uma instrução ou um bloco de instruções enquanto definida condição estiver sendo satisfeita.  Destaca-se que as principais estruturas de repetição na maioria das linguagens são o for e o while.
 
@@ -80,7 +79,7 @@ A estrutura de repetição while, na tradução para o português “enquanto”
 A condição PARA tem o mesmo princípio que utilizar enquanto (while), porém este recurso é mais utilizado quando se sabe o número de iterações da repetição, como listar os valores de um vetor por exemplo, também vale ressaltar a o código que é mais limpo.
 Ao usar o PARA (for) o contador (a variável i) é inicializado e incrementado na própria condição do laço junto a expressão booleana a ser atendida, deixando o código mais limpo e sem a necessidade de criar variáveis adicionais.
 
-6 INTRODUÇÃO – ANDROID STUDIO (FERRAMENTAS)
+#### 6 INTRODUÇÃO – ANDROID STUDIO (FERRAMENTAS)
 
 O Android Studio é o ambiente de desenvolvimento integrado (IDE) oficial para o desenvolvimento de apps Android. As barras de ferramentas são as que realizam várias ações, incluindo executar apps e abrir ferramentas do Android.
 
@@ -240,7 +239,7 @@ Fornece uma superfície de desenho dedicada incorporada dentro de uma hierarquia
 
 Como o nome sugere, um divisor é algo que divide o espaço em dois. Então, basicamente, um divisor pode existir apenas entre duas entidades. No Android, podemos usar um divisor para separar dois elementos. Ele aparece visualmente como um segmento de linha reta. Os elementos podem ser basicamente empilhados verticalmente ou apenas horizontalmente. Portanto, um divisor pode ter orientação vertical ou horizontal.
 
-REFERÊNCIAS BIBLIOGRÁFICAS
+#### REFERÊNCIAS BIBLIOGRÁFICAS
 
 http://fabrica.ms.senac.br/2015/03/tipos-de-dados-em-java/
 https://acervolima.com/tipos-de-dados-em-java-1/
