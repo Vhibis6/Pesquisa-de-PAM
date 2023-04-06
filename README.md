@@ -239,7 +239,7 @@ Fornece uma superfície de desenho dedicada incorporada dentro de uma hierarquia
 
 Como o nome sugere, um divisor é algo que divide o espaço em dois. Então, basicamente, um divisor pode existir apenas entre duas entidades. No Android, podemos usar um divisor para separar dois elementos. Ele aparece visualmente como um segmento de linha reta. Os elementos podem ser basicamente empilhados verticalmente ou apenas horizontalmente. Portanto, um divisor pode ter orientação vertical ou horizontal.
 
-#### REFERÊNCIAS BIBLIOGRÁFICAS
+#### REFERÊNCIAS BIBLIOGRÁFICAS:
 
 http://fabrica.ms.senac.br/2015/03/tipos-de-dados-em-java/
 https://acervolima.com/tipos-de-dados-em-java-1/
