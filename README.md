@@ -129,11 +129,7 @@ Possui uma variedade de recursos projetados para possibilitar a análise e forma
 
 Uma exibição de texto editável, estendendo AutoCompleteTextView, que pode mostrar sugestões de conclusão para a substring do texto em que o usuário está digitando, em vez de necessariamente para a coisa toda.
 
-###### 6.1.12 MULTIAUTOCOMPLETETEXTVIEW
-
-Uma exibição de texto editável, estendendo AutoCompleteTextView, que pode mostrar sugestões de conclusão para a substring do texto em que o usuário está digitando, em vez de necessariamente para a coisa toda.
-
-###### 6.1.13 TEXTINPUTLAYOUT
+###### 6.1.12 TEXTINPUTLAYOUT
 
 Layout que envolve um TextInputEditText, EditText ou descendente para mostrar um rótulo flutuante quando a dica está oculta enquanto o usuário insere texto.
 
