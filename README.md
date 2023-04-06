@@ -125,11 +125,11 @@ Possui uma variedade de recursos projetados para possibilitar a análise e forma
 
 É uma exibição de texto editável que mostra sugestões de conclusão automaticamente enquanto o usuário está digitando. A lista de sugestões é exibida em um menu suspenso no qual o usuário pode escolher um item para substituir o conteúdo da caixa de edição.
 
-###### 6.1.11 MUITIAUTOCOMPLETETEXTVIEW
+###### 6.1.11 MULTIAUTOCOMPLETETEXTVIEW
 
 Uma exibição de texto editável, estendendo AutoCompleteTextView, que pode mostrar sugestões de conclusão para a substring do texto em que o usuário está digitando, em vez de necessariamente para a coisa toda.
 
-###### 6.1.12 MUITIAUTOCOMPLETETEXTVIEW
+###### 6.1.12 MULTIAUTOCOMPLETETEXTVIEW
 
 Uma exibição de texto editável, estendendo AutoCompleteTextView, que pode mostrar sugestões de conclusão para a substring do texto em que o usuário está digitando, em vez de necessariamente para a coisa toda.
 
