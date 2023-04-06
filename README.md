@@ -4,11 +4,11 @@ Nome: Vitória Campelo de Araújo Leal
 2°DS - Grupo B
 
 
-1 INTRODUÇÃO – TIPOS DE DADOS DO JAVA
+#### 1 INTRODUÇÃO – TIPOS DE DADOS DO JAVA
 
 Dados são um conjunto de informações, sendo capaz ser organizadas ou não. Além disso, em uma linguagem de programação, as variáveis em Java, devem possuir uma “etiqueta” para dizer que tipo de dado poderá ser armazenado na memória dessa variável, então possui-se os tipos de dados.
 
-2 TIPOS NUMÉRICOS (INTEGRAIS)
+#### 2 TIPOS NUMÉRICOS (INTEGRAIS)
 
 2.1 TIPO DE DADO BYTE
  
@@ -236,12 +236,42 @@ TextureView só pode ser usado em uma janela acelerada por hardware.
 
 Fornece uma superfície de desenho dedicada incorporada dentro de uma hierarquia de exibição. Você pode controlar o formato desta superfície e, se quiser, seu tamanho. O SurfaceView cuida de colocar a superfície no local correto na tela.
 
+6.3.14 HORIZONTAL/VERTICAL DIVIDER
 
+Como o nome sugere, um divisor é algo que divide o espaço em dois. Então, basicamente, um divisor pode existir apenas entre duas entidades. No Android, podemos usar um divisor para separar dois elementos. Ele aparece visualmente como um segmento de linha reta. Os elementos podem ser basicamente empilhados verticalmente ou apenas horizontalmente. Portanto, um divisor pode ter orientação vertical ou horizontal.
 
+REFERÊNCIAS BIBLIOGRÁFICAS
 
-
-
-
-
-
-
+http://fabrica.ms.senac.br/2015/03/tipos-de-dados-em-java/
+https://acervolima.com/tipos-de-dados-em-java-1/
+https://www.javatpoint.com/pt/tipo-de-dado-em-java
+https://mentebinaria.gitbook.io/assembly/aprofundando-em-assembly/instrucoes-condicionaishttp://fabrica.ms.senac.br/2013/06/algoritmo-estruturas-condicionais/
+https://www.jdevtreinamento.com.br/estruturas-de-repeticao-em-java/
+https://glysns.gitbook.io/java-basico/controle-de-fluxo/estruturas-de-repeticao
+https://www.androidpro.com.br/blog/desenvolvimento-android/android-views-intro/
+https://materialpublic.imd.ufrn.br/curso/disciplina/3/66/5/6
+https://developers.google.com/assistant/df-asdk/reference/webhook/rest/Shared.Types/PostalAddress?hl=pt-br
+https://developers.google.com/blockly/guides/create-custom-blocks/fields/built-in-fields/multiline-text-input?hl=pt-brhttps://developer.android.com/reference/android/widget/Button
+https://developers.google.com/blockly/guides/create-custom-blocks/fields/built-in-fields/number?hl=pt-br
+https://tutorialspoint.com/android/android_sending_email.htm
+https://learn.microsoft.com/pt-br/dotnet/maui/user-interface/controls/imagebutton?view=net-maui-7.0
+https://jamiltondamasceno.com.br/2018/12/13/conhecendo-android-design-support-v28/
+https://www.thiengo.com.br/chips-android-quando-e-como-utilizar
+https://acervolima.com/como-usar-o-checkbox-no-android/
+https://developer.android.com/reference/android/widget/RadioButton
+https://acervolima.com/radiogroup-em-kotlin/
+https://juliobattisti.com.br/artigos/livroexc2007ribbon/capitulo1/11.asp#:~:text=Um%20toggleButton%20refere%2Dse%20ao,vis%C3%ADvel%20ou%20n%C3%A3o%2C%20por%20exemplo.
+https://www.androidpro.com.br/blog/desenvolvimento-android/android-views-intro/
+https://www.techtudo.com.br/listas/2020/06/o-que-e-webview-do-sistema-android-saiba-para-o-que-serve-o-app.ghtml
+https://developer.android.com/reference/android/text/format/Time
+https://www.javatpoint.com/pt/tipo-de-dado-em-java
+https://www.treinaweb.com.br/blog/estruturas-condicionais-e-de-repeticao
+https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java
+https://developer.android.com/studio/intro?hl=pt-br
+https://www-geeksforgeeks-org.cdn.ampproject.org/v/s/www.geeksforgeeks.org/create-vertical-and-horizontal-divider
+https://tutorialwing.com/android-surfaceview-tutorial-with-example/
+https://www-geeksforgeeks-org.cdn.ampproject.org/v/s/www.geeksforgeeks.org/discrete-seekbar-in-android/amp/
+https://developer.android.com/reference/android/R.style#Widget_ProgressBar_Horizontal
+https://developer.android.com/reference/android/widget/AutoCompleteTextView
+https://developer.android.com/reference/android/widget/CheckedTextView
+https://developer.android.com/reference/com/google/android/material/textfield/TextInputLayout
