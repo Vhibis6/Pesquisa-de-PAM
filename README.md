@@ -1,5 +1,5 @@
 # Pesquisa de PAM 
-Nome: Paulo Ricardo Matiasso Cruz; 
+Nome: Paulo Ricardo Matiasso Cruz 
 Nome: Vitória Campelo de Araújo Leal
 2° M-TEC PI Desenvolvimento de Sistemas (DS) - Grupo B
 
